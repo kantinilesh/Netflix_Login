@@ -1,0 +1,113 @@
+.container{
+    height:760px;
+    width:355px;
+    background:#FFFFFF;
+    box-shadow:0 3px 5px;
+    border-radius:15px;
+    background:black;
+    opacity: 0.8;
+}
+
+input[type="email"]{
+    height:40px;
+    width:300px;
+    background:#333333;
+}
+
+::placeholder{
+    color:white;
+    font-weight:500;
+}
+
+input[type="password"]{
+    height:40px;
+    width:300px;
+    background:#333333;
+}
+
+h1{
+    color:white;
+    font-weight:900;
+}
+button{
+    background:#fc0303;
+    color:white;
+    font-weight:900;
+    height:40px;
+    width:300px;
+    border:none;
+}
+
+button:active{
+    transform:scale(1.1);
+}
+
+
+input[type="checkbox"]{
+    color:grey;
+    font-weight:900;
+    float:left;
+    padding:15px;
+    height:17px;
+    
+    
+    
+}
+
+
+  
+
+
+strong{
+    font-weight:900;
+    color:grey;
+    float:left;
+    font-size:17px;
+}
+
+.help{
+    font-weight:900;
+    color:grey;
+    float:right;
+    font-size:15px;
+    
+}
+
+.login{
+    font-size:14px;
+    padding:5px;
+}
+
+.signup{
+    color:white;
+    font-weight:1000px;
+}
+
+.terms{
+    font-size:11px;
+    padding:5px;
+}
+
+.learn{
+    font-size:11px;
+    text-decoration:none;
+}
+
+body{
+    background-image:url("https://miro.medium.com/max/1400/1*5lyavS59mazOFnb55Z6znQ.png");
+    
+    background-size:cover;
+}
+
+.new-user{
+    text-decoration:none;
+    color:white;
+    font-weight:900;
+}
+
+.link-help{
+    text-decoration:none;
+    color:grey;
+    font-weight:900;
+    
+}
